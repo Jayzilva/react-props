@@ -4,6 +4,9 @@
 - Parent component can pass data to children components
 - Props in a component are read only and cannot be changed
 
+- ⚠️ In Class Components have to use `this.props.<name>`
+- ⚠️ In Functional Compoents have to pass the props as argument `<functionName>(props)`
+
 In the project directory, you can run:
 
 ### `npm start`
